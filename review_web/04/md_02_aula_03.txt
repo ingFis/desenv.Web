@@ -1,0 +1,19 @@
+HTML E CSS - AULA 03
+
+Tabelas
+	sintaxe, alinhamento, cor de fundo, mesclar colunas e linhas
+
+Formulários
+	sintaxe, métodos, dados - texto, senha, sexo, estado, texto maior, varias seleções, botão
+
+Iframe
+	sintaxe, colocar bordas, largura e altura
+
+Acionadores de Eventos - 3 principais
+
+CSS
+	para que serve?
+
+REVISÃO
+	27/11/2020 - DIA
+	04/12/2020 - SEMANA 01	

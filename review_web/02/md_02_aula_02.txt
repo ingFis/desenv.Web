@@ -1,0 +1,23 @@
+HTML E CSS - AULA 02
+
+FORMATAÇÃO DE TEXTOS
+	negrito, itálico, sublinhado, menor, maior, riscado
+	para baixo, para cima
+
+LISTAS NÃO ORDENADAS
+	sintaxe
+	estilo de lista: 4 tipos
+
+LISTAS ORDENADAS
+	sintaxe
+	tipos de ordenação: 5 tipos
+
+IMAGENS
+	sintaxe e parâmetros
+
+LINKS
+	sintaxe, download, abrir em outra aba
+
+REVISÃO
+	25/11/2020 - DIA
+	02/12/2020 - SEMANA 01	

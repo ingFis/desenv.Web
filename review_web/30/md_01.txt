@@ -1,0 +1,59 @@
+COMO APRENDER
+
+ - Diferença entre pensamento de perto vs de longe
+	Perto - muito envolvido no problema
+	Longe - Visão geral do problema	- buscar outras soluções
+
+
+ - O poder do interrogatório elaborado
+	Perguntar - por que funciona? o que está por trás?	
+	Questionar
+
+ - Repetição é rei, prática é Deus
+	Repetir aulas difíceis 
+	Praticar o que aprendeu
+	Praticar o interrogatório elaborado
+
+ - Não se testa na mente, se testa na prática
+
+ - Para aprender, precisamos dormir
+
+COMO FUNCIONA UM SITE
+ 
+	item antes do primeiro ponto - subdomínio - local específico do servidor
+	depois do primeiro ponto - domínio - direciona para um servidor
+
+	client - javascript, css, html	
+	server - php - executado no servidor
+
+COMO UM SERVIDOR FUNCIONA
+	computador em algum lugar do mundo
+	sites se hospedam em algum servidor(es)
+	Precisa rodar um software que permita o acesso de fora à essa máquina
+
+	Tipos de servidores web
+		Apache 95% dos servidores
+		ISS(Internet Information Services)
+		Tomcat(java)
+		JBoss(java)
+
+	Como funciona
+		O client pede algo ao servidor
+		O servidor retorna o que foi pedido
+
+COMO O PHP FUNCIONA
+	Software instalado no servidor
+	Interpretado pelo Apache 
+	 -Quando o usuário acessa um site o apache é o primeiro que tem acesso a requisição - faz o processamento e chama o PHP
+
+	client -> Apache -> PHP -> Server Filesystem/Database/Mail Server
+
+PÁGINA ESTÁTICA VS PÁGINA DINÂMICA
+	estática - conteúdo já criado - sem processamento - server->client
+	Dinâmica - precisa de processamento - server<->db->client
+	
+	conteúdo estático - não depende de processamento, nem circunstâncias para rodar uma coisa ou outra
+
+REVISÃO
+	23/11/2020 - DIA
+	30/11/2020 - SEMANA 01	

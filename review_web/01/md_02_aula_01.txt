@@ -1,0 +1,18 @@
+HTML E CSS
+
+Estrutura de uma página web
+
+Tags no head
+	metadados - Dados internos da página - Referenciar informações sobre o site
+	Título da Aba
+	Insere arquivo externo 
+	Insere arquivo js
+	Códigos CSS - interno
+	Endereço original do site
+
+Parágrafos
+	3 formas 
+
+REVISÃO
+	24/11/2020 - DIA
+	01/12/2020 - SEMANA 01	

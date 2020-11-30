@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>AULA 03</title>
+    </head>
+    <body>
+        <!-- TABELAS -->
+        <table width="70%" border="1">
+            <!-- table row -->
+            <tr bgcolor="#dfe4ed">
+                <!-- table header -->
+                <th>Produto</th>
+                <th>Descrição</th>
+                <th width="15%">Qt.</th>
+                <th>Preço</th>
+            </tr>
+            <tr align="center">
+                <!-- table data -->
+                <td><img src="images/pedra.png" alt="pedra" title="pedra" width="40"></td>
+                <td>Pedra</td>
+                <td>2</td>
+                <td>R$ 200</td>
+            </tr>
+            <tr align="center">
+                <td><img src="images/papel.png" alt="papel" title="papel" width="40"></td>
+                <td>Papel</td>
+                <td>2</td>
+                <td>R$ 20</td>
+            </tr>
+            <tr align="center">
+                <th colspan="3" bgcolor="#dfe4ed" align="right">Subtotal</th>
+                <td>R$ 220</td>
+            </tr>
+        </table>
+
+        <br><br>
+
+        <!-- FORMULÁRIOS -->
+        <!-- get - envia no cabeçalho da requisição | post - envia no corpo da requisição -->
+        <form action="" method="GET">
+            <label for="">
+                Nome:
+                <input type="text" name="nome">
+            </label><br><br>
+            <label for="">
+                Senha:
+                <input type="password" name="senha">
+            </label><br><br>
+            <label for="">
+                Sexo:
+                <input type="radio" name="sexo" value="F">Feminino
+                <input type="radio" name="sexo" value="M">Masculino
+            </label><br><br>
+            <label for="">
+                Estado:
+                <select name="estado" id="">
+                    <option value="" selected>...</option>
+                    <option value="SP">São Paulo</option>
+                    <option value="RJ">Rio de Janeiro</option>
+                    <option value="Ba">Bahia</option>
+                </select>
+            </label><br><br>
+            <label for="">
+                Preferências: <br>
+                <input type="checkbox" value="A">Esporte <br>
+                <input type="checkbox" value="B">Cultura <br>
+                <input type="checkbox" value="C">Lazer <br>
+                <input type="checkbox" value="D">Entretenimento <br>
+                <input type="checkbox" value="E">Saúde
+            </label><br><br>
+            <label for="">
+                Observações: <br>
+                <textarea name="" id="" cols="30" rows="5"></textarea>
+            </label><br><br>
+            <input type="submit" value="Enviar">
+        </form>
+
+        <br><br>
+
+        <!-- IFRAME -->
+        <h2>Usando Iframe</h2>
+        <iframe src="https://mundoeducacao.uol.com.br/literatura/poesia-poema-soneto.htm" frameborder="0" width="600" height="500"></iframe>
+    
+        <!-- ACIONADORES DE EVENTOS(ex. OnClick) -->
+        <!-- onclick, onmouseover, onmouseout-->
+        <img src="http://www.google.com.br/google.jpg" alt="" 7="alert('Ok google!')">
+
+        <!-- O QUE É CSS? - Ajusta a estilização do site -->
+    </body>
+</html>

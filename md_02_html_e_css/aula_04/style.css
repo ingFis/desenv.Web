@@ -1,0 +1,60 @@
+/* SELETORES - objetos para estilização*/
+
+/* IDENTIFICAÇÃO:{} */
+
+body{
+    margin: 0;
+}
+
+p{
+    color: #00F;
+}
+
+/* 
+CLASSES E IDs 
+
+class - classificação - vários
+id    - único
+
+*/
+.teste{
+    width: 500px;
+}
+
+#especifico{
+    color: #0FF;
+    font-size: 25px;
+}
+
+.div{
+    width: 100%px;
+    height: 100px;
+    background-color: coral;
+}
+
+.menu{
+    width: 200px;
+    height: 350px;
+    background-color: crimson;
+    float: left;
+}
+
+.conteudo{
+    width: 900px;
+    height: 350px;
+    background-color: darkgrey;
+}
+
+span{
+    background-color: #F00;
+}
+
+/* BORDAS */
+.bordas{
+    width: 200px;
+    height: 200px;
+    background-color: dodgerblue;
+    color: #FFF;
+    border: dashed 3px purple;
+    border-radius: 100px;
+}

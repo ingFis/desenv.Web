@@ -1,0 +1,21 @@
+HTML E CSS - AULA 04
+
+Inline CSS
+	sintaxe
+	cor de fundo, tamanho da fonte, cor da letra
+
+SELETORES
+	como funciona e sintaxe
+
+CLASSES E IDs
+	sintaxe e diferença
+
+DIV E SPAN
+	sintaxe e diferença
+
+BORDAS
+	sintaxe, propriedades, tipos, arredondar
+
+REVISÃO
+	30/11/2020 - DIA
+	07/12/2020 - SEMANA 01	
