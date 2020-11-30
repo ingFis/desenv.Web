@@ -1,0 +1,20 @@
+HTML E CSS - AULA 05
+
+FORMATAÇÃO DE TEXTO
+	tamanho, cor, tipo de fonte, peso da fonte, alinahmento, caixa do texto, sublinhado
+
+BOX MODEL
+	alinhar div no centro
+
+ELEMENTOS FLUTUANTES
+	sintaxe, como funciona
+
+ELEMENTOS BLOCK, INLINE E INLINE-BLOCK
+	sintaxe e diferenças
+
+FORMATAÇÃO DE LINKS
+	quando passar o mouse, quando o link estiver ativo
+
+REVISÃO
+	01/12/2020 - DIA
+	08/12/2020 - SEMANA 01	

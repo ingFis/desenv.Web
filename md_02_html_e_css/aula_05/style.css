@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+}
+
+.texto{
+    width: 400px;
+    height: 200px;
+    background-color: #DDD;
+
+    /* FORMATAÇÃO DE TEXTO */
+
+    color: crimson;
+    /* Tamanho da fonte */
+    font-size: 25px;
+    /* Tipo da fonte */
+    font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
+    /* Peso da fonte */
+    font-weight: 400;
+    /* Alinhamento do texto */
+    text-align: center;
+    /* caixa do texto */
+    text-transform: lowercase;
+    /* Sublinhar texto */
+    text-decoration: underline;
+
+    /* BOX MODEL */
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 5px;
+}
+
+/* ELEMENTOS FLUTUANTES - fica por cima do site(descola)*/
+.position-absolute{
+    position: absolute;
+    top: 0px;
+    left: 50px;
+}
+
+.position-fixed{
+    width: 300px;
+    height: 30px;
+    bottom: 0;
+    right: 0;
+    text-decoration: none;
+    background-color: lightseagreen;
+    color: #FFF;
+    position: fixed;
+}
+
+/* ELEMENTOS BLOCK, INLINE E INLINE-BLOCK */
+.texto2{
+    width: 400px;
+    height: 100px;
+    background-color: #DDD;
+    color: limegreen;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 15px;
+
+    /* Modo de exibição */
+    /* none   - sem exibição
+       block  - em blocos
+       inline - se adapta a linha do texto(conteúdo)
+       inline-bock - Fica um lado do outro, mas permanece as definições de largura e altura*/
+    display: inline-block;
+}
+
+/* FORMATANDO LINKS */
+a{
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    display: block;
+    color: #000;
+    text-decoration: none;
+    font-size: 25px;
+   
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: yellow;
+    text-transform: uppercase;
+}
+
+a:active{
+    background-color: cornflowerblue;
+}

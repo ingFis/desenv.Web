@@ -28,7 +28,7 @@ COMO FUNCIONA UM SITE
 
 COMO UM SERVIDOR FUNCIONA
 	computador em algum lugar do mundo
-	sites se hospedam em algum servidor(es)
+	sites se hospedam em algum(ns) servidor(es)
 	Precisa rodar um software que permita o acesso de fora à essa máquina
 
 	Tipos de servidores web
@@ -57,3 +57,4 @@ PÁGINA ESTÁTICA VS PÁGINA DINÂMICA
 REVISÃO
 	23/11/2020 - DIA
 	30/11/2020 - SEMANA 01	
+	07/12/2020 - SEMANA 02
