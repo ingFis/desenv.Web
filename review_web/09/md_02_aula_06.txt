@@ -1,4 +1,4 @@
-HTML E CSS - AULA 02
+HTML E CSS - AULA 06
 
 PHOTOSHOP
 	criar arquivo, criar camadas, cortar arquivo e transformar em png, explorar ferramentas

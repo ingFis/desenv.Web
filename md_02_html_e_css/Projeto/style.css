@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.topo{
+    height: 50px;
+    background-color: #353535;
+}
+
+.container{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+
+.color-white{
+    color: #FFF;
+}
+
+.logomarca{
+    float: left;
+    font-size: 25px;
+    line-height: 50px;
+}
+
+.menu{
+    float: right;
+}
+
+.menu ul li{
+    list-style-type: none;
+    float: left;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 50px;
+    font-size: 14px;
+}
+
+.menu ul li:hover{
+    cursor: pointer;
+    background-color: #3480ba;
+}
+
+.banner{
+    background-color: #347aba;
+    height: 300px;
+}
+
+.banner-direito{
+    float: right;
+    margin-right: 55px;
+}
+
+.banner-esquerdo{
+    float: left;
+}
+
+.frase-efeito1{
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+.frase-efeito2{
+    margin-top: 5px;
+    width: 380px;
+    font-size: 20px;
+}
+
+.acessar-produto{
+    width: 282px;
+    height: 56px;
+    color: #000;
+    text-align: center;
+    line-height: 56px;
+    background-color: #ffc001;
+    font-size: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.conteudo{
+    padding-bottom: 40px;
+}
+
+.titulo-conteudo{
+    text-align: center;
+    height: 90px;
+    line-height: 90px;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.fotos img{
+    margin-left: 12px;
+    margin-right: 10px;
+}
+
+.rodape{
+    background-color: #357aba;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
