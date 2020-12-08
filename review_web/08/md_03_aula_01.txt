@@ -1,0 +1,40 @@
+HTML5 E CSS3 - Aula 01 
+- Para os motores de busca encontrarem de forma mais rápida 
+- Saber o que é cada conteúdo da página - indexar conteúdo
+
+Referente ao cabeçalho
+
+Referente aos menus principais
+
+Referente ao rodapé
+
+Indica separação de assuntos
+
+Indica o conteúdo Principal
+
+Indica o conteúdo secundário
+
+Indica tempo
+
+COMPATIBILIDADE COM HTML5 - Conceito de personalização
+
+INPUTS
+    - pesquisa
+    - email
+    - url
+    - telefone
+    - numero
+    - seekbar
+    - data - mes - semana 
+    - tempo
+    - data e tempo
+    - cor
+
+ATRIBUTO data
+    para que serve e sintaxe
+
+REVISÃO
+    08/12/2020 - DIA
+    15/12/2020 - SEMANA 01
+
+
